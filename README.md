@@ -1,37 +1,26 @@
-## Flutter Beautiful Login Page UI Design and Animation - Day 14
+# UIII Act 1 Diseño login
 
-```dart
-class Afgprogrammer extends Flutter100DaysOfCode {
-  video() {
-    return {
-      "title": "Flutter Beautiful Login Page UI Design and Animation",
-      "description": "Let's see how we can design a Login page UI and add some cool animation.",
-      "day": 14,
-      "videoLink": "https://youtu.be/txvyAO894DY"
-    }
-  }
-}
-```
-### [Watch it on Youtube](https://youtu.be/txvyAO894DY)
+A new Flutter project created with FlutLab - https://flutlab.io
 
-## Previous Designs
-[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
+## Getting Started
+
+A few resources to get you started if this is your first Flutter project:
+
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
+
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Getting Started: FlutLab - Flutter Online IDE
+
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Join the discussion and conversation on https://flutlab.io/residents
+
+-LInk de referencia
+https://www.youtube.com/watch?v=txvyAO894DY
 
 
-## Development Setup
-Clone the repository and run the following commands:
-```
-flutter pub get
-flutter run
-```
-
-## ScreenShot
-
-<img src="assets/screenshot/one.png" height="500em" />
-
-## Links
-
-* [Website](https://afgprogrammer.com)
-* [Youtube channel](https://youtube.com/afgprogrammer)
-* [Twitter](https://twitter.com/afgprogrammer)
-* [Instagram](https://instagram.com/afgprogrammer)
+-Imgaen de Resultado de trabajo
+![image](https://github.com/Hernandezc128/UIII_Act1_login/assets/143743758/f19d926c-c841-463e-ac9e-c620c62a7868)
